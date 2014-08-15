@@ -1,0 +1,86 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 100,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "da-desktop.html",
+        "id": "da-desktop",
+        "class": "step",
+        "data": {
+            "x": 50000,
+            "y": -10000,
+            "z": 18000,
+            "scale": 15,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "da-desktop-22.html",
+        "id": "da-desktop-22",
+        "class": "step",
+        "data": {
+            "x": 10000,
+            "y": -20000,
+            "z": 18000,
+            "scale": 12,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "ikey-holder.html",
+        "id": "ikey-holder",
+        "class": "step",
+        "data": {
+            "x": -30000,
+            "y": -30000,
+            "z": 18000,
+            "scale": 20,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "itherm.html",
+        "id": "itherm",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 20000,
+            "z": 18000,
+            "scale": 20,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "icoffee.html",
+        "id": "icoffee",
+        "class": "step",
+        "data": {
+            "x": -50000,
+            "y": 2000,
+            "z": 8000,
+            "scale": 20,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 270
+        }
+    }
+]
